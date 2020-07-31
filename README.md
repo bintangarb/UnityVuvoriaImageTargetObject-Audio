@@ -10,5 +10,7 @@ Here is my project for using Vuvoria on Unity.
 //using vuvoria 8.5.9
 
 // setting up the default script from  DefaultTracableeventHandler.cs from Image target 
+
 //LeanTouch is asset from unity market FREE using for scalling and rotate 3D object by touchscreen
+
 //ToAnotherScenen.cs -- it just scene Manager for load to another scene
